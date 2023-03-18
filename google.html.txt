@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <img src="img/google.jpg" alt="">
+
+    <div  class="container">
+        <div>
+            Search the web using Google!
+
+            <form action="" method="get" class="search">
+                <input type="text" placeholder="Arama yap" value size="40"><br>
+                <button type="submit">Google Search</button>
+                <button type="submit">I'm feeling lucky</button>
+            </form>
+            
+        
+        </div>
+            <div class="left-bar1">
+                Special Searches <br>
+                <a href="http://www.google.com/stanford">Stanford Search</a><br>
+                <a href="http://www.google.com/linux">Linux Search</a>
+            </div>
+            <div class="left-bar2">
+                <a href="about.html">Why use Google!</a><br>
+                <a href="press.html">Press about Google!</a><br>
+                <a href="help.html">Help!</a><br>
+                <a href="company.html">Company Info</a><br>
+                <a href="jobs.html">Jobs at Google</a><br>
+                <a href="stickers.html">Google! Logos</a><br>
+                <a href="defaults.html">Making Google! the Default</a><br>
+            </div>
+            <div class="left-bar3">
+                Get Google! <br>
+                updates monthly:
+                <input type="hidden" name="listname" value="google-friends"><br>
+                <input type="text" name="emailaddr" value="your e-mail"><br>
+                <input type="submit" name="SubmitAction" value="Subscribe">
+                <a href="www.egroups.com/list/google-friends/">Archive</a>
+            </div>
+
+    </div>
+    
+
+        <footer>Copyright ©1999 Google Inc.</footer>
+    
+</body>
+</html>

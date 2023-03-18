@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.container {
+    width:100%;
+    background-color: rgb(238, 238, 238);
+}
+
+.left-bar1 {
+    width: 37%;
+    height: 150px;
+    background-color: rgb(126, 229, 218);
+    float: left;
+}
+
+.left-bar2 {
+    width: 26%;
+    background-color: rgb(70, 166, 157);
+    float: left;
+    height: 150px;
+}
+
+.left-bar3 {
+    width: 37%;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    height: 150px;
+}
